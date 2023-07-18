@@ -1,21 +1,5 @@
 [
   {
-    "id": "1",
-    "shape": "dag-node",
-    "x": 290,
-    "y": 110,
-    "data": {
-      "label": "读数据",
-      "status": "success"
-    },
-    "ports": [
-      {
-        "id": "1-1",
-        "group": "bottom"
-      }
-    ]
-  },
-  {
     "id": "2",
     "shape": "dag-node",
     "x": 290,
